@@ -1,4 +1,4 @@
-# Mini E-commerce Backend (Flask + SQLAlchemy)
+# E-commerce Backend (Flask + SQLAlchemy)
 
 This is the backend for the mini e-commerce system with:
 
