@@ -1,15 +1,14 @@
 # Mini E-commerce Backend (Flask + SQLAlchemy)
 
-This is a production-ready starter for a mini e-commerce system with:
+This is the backend for the mini e-commerce system with:
 
 - Hierarchical category tree (dynamic depth)  
 - List products for a category **including** all its subcategories (recursive)  
-- Shopping cart with per-user carts (simple `userId`, defaults to `"guest"`)  
+- Shopping cart with per-user carts (defaults to `"guest"`)  
 - Related products (graph-like associations)  
 - Proper layering: **controllers → services → repositories → models**  
-- DTO-style JSON responses and robust error handling
 
-> Frontend can live in a sibling `frontend/` folder. This backend is fully self-contained under `backend/`.
+> Frontend is present in `frontend/` folder. This backend is under `backend/` folder.
 
 ---
 
