@@ -1,6 +1,6 @@
 # E-Commerce Frontend (React)
 
-This is a minimal React frontend for the e-commerce backend running at `http://localhost:5000`.
+This is the React frontend for the e-commerce backend running at `http://localhost:5000`.
 
 ## Requirements
 
