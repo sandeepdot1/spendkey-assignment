@@ -40,6 +40,6 @@ See **[frontend/README.md](frontend/README.md)**
 ## Getting Started
 1. **Set up the backend** → [Backend README](backend/README.md)  
 2. **Set up the frontend** → [Frontend README](frontend/README.md)  
-3. Run both, then open the frontend in the browser
+3. Run both, then open the frontend in the browser (frontend hosted at localhost:3000, backend hosted at localhost:5000)
 
 
