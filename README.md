@@ -30,7 +30,6 @@ See **[backend/README.md](backend/README.md)**
 
 ### Frontend
 - **React** (JavaScript framework)  
-- **React Router** (Routing)  
 - **Fetch API** (for calling backend APIs)  
 
 
