@@ -7,7 +7,7 @@ export default function Header() {
       <div className="container" style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
         <div>
           <Link to="/categories" style={{ color: "white", textDecoration: "none", fontWeight: "700" }}>
-            Mini E-Commerce
+            E-Commerce
           </Link>
         </div>
         <div style={{ display: "flex", gap: 12, alignItems: "center" }}>
