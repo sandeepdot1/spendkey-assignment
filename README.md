@@ -1,5 +1,7 @@
 # Full-Stack E-commerce App
 
+### Video Link: https://www.loom.com/share/d63e8e86b3a34ade936ce097d5191788?sid=46b83282-387e-4e3f-a41d-b9dbf60b36ba
+
 ## Project Overview
 This is a **Full-Stack E-commerce Application** built to demonstrate a mini e-commerce system.  
 It allows users to:
